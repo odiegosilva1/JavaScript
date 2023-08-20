@@ -1,6 +1,15 @@
 html {
-    background-color: bisque;
+    padding: 0;
+    margin: 10pt;
+     background-color: rgb(38, 39, 39);
+}
+
+
+body {
+    background-color: rgb(28, 236, 39);
     text-align: center;
     font-size: 1.5rem;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: monospace;
+    padding: 0;
+    color: antiquewhite;
 }

@@ -1,9 +1,7 @@
 
-var n1 = Number(window.prompt('Digite um número: '))
-var n2 = Number(window.prompt('Digite outro número: '))
-var s = n1 + n2
-window.alert(`A Soma entre ${n1} e ${n2} é igual a ${s}`)
-
+var p1 = window.document.getElementsByTagName('p')[0]
+window.document.write(p1.innerText)
+var d = window.document.querySelector('id#msg')
 //metodos
 
 /*
