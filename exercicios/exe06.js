@@ -1,10 +1,10 @@
 //Condições aninhadas
 
-var idade = 77
+var idade = 65
 console.log(`Você tem ${idade} anos`)
 if (idade > 16) {
     console.log('já vota')   
-} else if (idade < 18 || idade > 65 ){
+} else if (idade < 18 || idade > 65 ) {
     console.log('voto opcinonal')
 } else {
     console.log('voto obrigatório')
