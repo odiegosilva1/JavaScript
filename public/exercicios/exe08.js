@@ -33,8 +33,4 @@ switch(diaSem){
 default:
     console.loh('[ERRO] Dia inválido!')             
     
-    
-    
-    
-    
     }
